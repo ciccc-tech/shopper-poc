@@ -17,6 +17,9 @@
     height:40px;
     border-radius:40px;
     padding: 10px;
+    
+
+    
 }
 
 .search-box:hover> .search-txt {
@@ -61,4 +64,6 @@
     font-weight: bold;
     position:relative;
 }
+
+
 
